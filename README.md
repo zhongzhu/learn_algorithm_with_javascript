@@ -1,2 +1,2 @@
-# learn_algorithm_with_javascript
-Learn interesting algorithms by implementing them in Javascript
+# learn Javascript with code kata
+Learn Javascript with interesting katas
